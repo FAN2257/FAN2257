@@ -14,8 +14,8 @@
 
 ### I'm Fadel Aulia Naldi
 
-I'm an undergraduate student in University of Gadjah Mada
-Information Technology '23
+I'm an undergraduate student in University of Gadjah Mada <br>
+Information Technology '23 <br>
 Programmer wannabe.
 
 ### My Stats :
