@@ -15,6 +15,8 @@
 ### I'm Fadel Aulia Naldi
 
 I'm an undergraduate student in University of Gadjah Mada
+Information Technology '23
+Programmer wannabe.
 
 ### My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FAN2257&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
