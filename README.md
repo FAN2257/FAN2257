@@ -1,4 +1,4 @@
-### Hi there 👋
+### I'm Fadel Aulia Naldi
 
 <!--
 **FAN2257/FAN2257** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
