@@ -23,7 +23,7 @@ Programmer wannabe.
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FAN2257&theme=dark&background=000000)](https://git.io/streak-stats)
 <div>
   
-  <img src="https://myreadme.vercel.app/api/embed/YOURUSERNAME?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+  <img src="https://myreadme.vercel.app/api/embed/FAN2257?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 </div>
 
 
