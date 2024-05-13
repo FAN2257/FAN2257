@@ -21,6 +21,10 @@ Programmer wannabe.
 ### My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FAN2257&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FAN2257&theme=dark&background=000000)](https://git.io/streak-stats)
+<div>
+  
+  <img src="https://myreadme.vercel.app/api/embed/YOURUSERNAME?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+</div>
 
 
 <!--
