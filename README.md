@@ -24,7 +24,6 @@ Programmer wannabe.
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FAN2257&layout=compact&theme=vision-friendly-dark" alt="Stats" />
   <img src="http://github-readme-streak-stats.herokuapp.com?user=FAN2257&theme=dark&background=000000" alt="GitHub Streak" />
-  <img src="https://myreadme.vercel.app/api/embed/FAN2257?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 </div>
 
 
