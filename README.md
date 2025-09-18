@@ -19,15 +19,15 @@ I'm an undergraduate student in University of Gadjah Mada <br>
 Information Technology '23 <br>
 Programmer wannabe.
 
+
+
+<!--
 ### My Stats :
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FAN2257&layout=compact&theme=vision-friendly-dark" alt="Stats" />
   <img src="http://github-readme-streak-stats.herokuapp.com?user=FAN2257&theme=dark&background=000000" alt="GitHub Streak" />
 </div>
-
-
-<!--
 **FAN2257/FAN2257** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
